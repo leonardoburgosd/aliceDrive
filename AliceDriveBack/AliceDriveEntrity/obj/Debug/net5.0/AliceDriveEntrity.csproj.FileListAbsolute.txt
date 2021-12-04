@@ -1,0 +1,11 @@
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\bin\Debug\net5.0\AliceDriveEntrity.deps.json
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\bin\Debug\net5.0\AliceDriveEntrity.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\bin\Debug\net5.0\ref\AliceDriveEntrity.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\bin\Debug\net5.0\AliceDriveEntrity.pdb
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntrity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntrity.AssemblyInfoInputs.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntrity.AssemblyInfo.cs
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntrity.csproj.CoreCompileInputs.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntrity.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\ref\AliceDriveEntrity.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntrity.pdb

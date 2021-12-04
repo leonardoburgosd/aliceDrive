@@ -1,0 +1,4 @@
+﻿CREATE SCHEMA [file]
+GO
+CREATE SCHEMA [notes]
+GO

@@ -1,0 +1,98 @@
+<hr>
+<button *ngIf="!particiones" class="btn button-propio" data-bs-toggle="modal" data-bs-target="#newFolder"><i
+    class="fas fa-hdd"></i></button>
+<button *ngIf="particiones" class="btn button-propio" data-bs-toggle="modal" data-bs-target="#newFolder"><i
+    class="fas fa-folder-plus"></i></button>
+<button *ngIf="particiones" class="btn button-propio" data-bs-toggle="modal" data-bs-target="#newFile"><i
+    class="fas fa-upload"></i></button>
+
+<div class="modal fade" id="newFolder" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Nueva carpeta</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <input type="text" class="form-control" [(ngModel)]="nuevaCarpeta.fileNombre" placeholder="Nombre carpeta">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal"
+          (click)="agregarCarpeta()">Guardar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="newFile" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Nuevo archivo</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <input type="file" class="form-control" (change)="capturaArchivosLocalmente($event)" multiple>
+
+        <br>
+
+        <div class="accordion" id="accordionExample">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                aria-expanded="true" aria-controls="collapseOne">
+                Archivos seleccionados
+              </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+              data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th scope="col">#</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let archivoSelect of archivosSeleccionados">
+                      <th>{{archivoSelect.name}}</th>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal"
+          (click)="agregarArchivo()">Guardar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="col-12" (click)="ocultarMenu()">
+  <div class="row">
+    <div class="row justify-content-center" *ngIf="listaArchivos.length==0">
+      <div class="col-4">
+        <h2 style="color: #fff;"> <i class="fas fa-archive"></i> No hay archivos</h2>
+      </div>
+    </div>
+    <div class="col-2 padding text-center" *ngFor="let archivo of listaArchivos">
+      <app-file [archivo]="archivo" (contextmenu)="menuOpciones(archivo,$event)" (click)="detenerPropagacion($event)">
+      </app-file>
+      <div class="context" [ngStyle]="{'left.px': posicionX, 'top.px': posicionY}"
+        *ngIf="oculto && archivo.fileType!='disc'">
+        <ul>
+          <li (click)="descargarArchivo(fileIdSeleccionado)"><i class="fas fa-cloud-download-alt"></i> Descargar archivo
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

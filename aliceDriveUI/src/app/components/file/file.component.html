@@ -1,0 +1,15 @@
+<a class="file" *ngIf="archivo.fileType=='folder' || archivo.fileType=='disc' || archivo.fileType==''"
+    [routerLink]="['/file',archivo.fileBase]" [replaceUrl]="true" >
+    <i *ngIf="archivo.fileType=='folder'" class="fas fa-folder"></i>
+    <i *ngIf="archivo.fileType=='disc'" class="far fa-hdd"></i>
+    <p><span *ngIf="archivo.fileType=='disc'">Disco </span>{{archivo.fileNombre}}</p>
+</a>
+
+<a class="file" href="#/viewfile/{{archivo.fileBase}}" *ngIf="archivo.fileType!='folder' && archivo.fileType!='disc'"
+    target="_blank">
+    <i *ngIf="archivo.fileType=='image/png' || archivo.fileType=='image/jpeg'" (click)="cargaImagen(archivo.fileBase)"
+        class="fas fa-file-image"></i>
+    <i *ngIf="archivo.fileType=='text/plain'" (click)="cargaText(archivo.fileBase)" class="far fa-file-alt"></i>
+    <i *ngIf="archivo.fileType=='audio/mpeg'" (click)="cargaText(archivo.fileBase)" class="fas fa-headphones-alt"></i>
+    <p>{{archivo.fileNombre}}</p>
+</a>

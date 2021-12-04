@@ -1,0 +1,106 @@
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.csprojAssemblyReference.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.AssemblyInfoInputs.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.AssemblyInfo.cs
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.csproj.CoreCompileInputs.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\web.config
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\appsettings.json
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.exe
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.deps.json
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.runtimeconfig.json
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.runtimeconfig.dev.json
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\ref\AliceDriveApi.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.pdb
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Dapper.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveData.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveEntity.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveData.pdb
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveEntity.pdb
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\staticwebassets\AliceDriveApi.StaticWebAssets.Manifest.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\staticwebassets\AliceDriveApi.StaticWebAssets.xml
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\scopedcss\bundle\AliceDriveApi.styles.css
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.RazorTargetAssemblyInfo.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.csproj.CopyComplete
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\ref\AliceDriveApi.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.pdb
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.genruntimeconfig.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\web.config
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\appsettings.json
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.exe
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.deps.json
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.runtimeconfig.json
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.runtimeconfig.dev.json
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\ref\AliceDriveApi.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveApi.pdb
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Dapper.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveData.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveEntity.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveData.pdb
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\AliceDriveEntity.pdb
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.AssemblyInfoInputs.cache
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.AssemblyInfo.cs
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.csproj.CoreCompileInputs.cache
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\staticwebassets\AliceDriveApi.StaticWebAssets.Manifest.cache
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\staticwebassets\AliceDriveApi.StaticWebAssets.xml
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\scopedcss\bundle\AliceDriveApi.styles.css
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.RazorTargetAssemblyInfo.cache
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.csproj.CopyComplete
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\ref\AliceDriveApi.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.pdb
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.genruntimeconfig.cache
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\SixLabors.ImageSharp.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveApi\obj\Debug\net5.0\AliceDriveApi.csproj.AssemblyReference.cache

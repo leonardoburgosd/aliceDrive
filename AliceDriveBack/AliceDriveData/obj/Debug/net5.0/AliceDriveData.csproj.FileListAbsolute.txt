@@ -1,0 +1,30 @@
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveData.deps.json
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveData.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\bin\Debug\net5.0\ref\AliceDriveData.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveData.pdb
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveEntity.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveEntity.pdb
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csprojAssemblyReference.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.AssemblyInfoInputs.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.AssemblyInfo.cs
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.CoreCompileInputs.cache
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.CopyComplete
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\ref\AliceDriveData.dll
+C:\Users\lbd_2\Desktop\AliceDrive back\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.pdb
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.AssemblyInfoInputs.cache
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.AssemblyInfo.cs
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.CoreCompileInputs.cache
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\ref\AliceDriveData.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.pdb
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveData.deps.json
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveData.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\bin\Debug\net5.0\ref\AliceDriveData.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveData.pdb
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveEntity.dll
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveEntity.pdb
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.CopyComplete
+D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.AssemblyReference.cache
