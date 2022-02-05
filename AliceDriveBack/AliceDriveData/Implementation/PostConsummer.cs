@@ -18,7 +18,7 @@ namespace AliceDriveData.Implementation
         {
             try
             {
-                dynamic response = await dapper.Consultas<dynamic>(settings.ConexionString, "ad_CreatePost", new
+                dynamic response = await dapper.Consultas<dynamic>(settings.ConexionString, "Post_create", new
                 {
                     @DetallePost = post.DetallePost,
                     @UsuarioId = post.UsuarioId
@@ -35,7 +35,7 @@ namespace AliceDriveData.Implementation
         {
             try
             {
-                return await dapper.Consultas<Post>(settings.ConexionString, "ad_ListPostByUserId", new {
+                return await dapper.Consultas<Post>(settings.ConexionString, "Post_getByUserId", new {
                     @UsuarioId = usuario
                 });
             }

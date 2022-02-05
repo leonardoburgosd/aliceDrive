@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lI0/GHze06EyvGkbHc6ncFaNB68YnE0T0s94EyRXcPV42/V4p7KIEdS4gukELIMuMYa/Gqahei0ecTL/SYVXhg==",
+  "dgSpecHash": "xJlw/GEYOYgHDl9KcLZ9Fqp8F/D71bLw20sN2+MK+vPu7Xbb7IV80blms1+swcCZwI4UihClyVch2euYP2eoXQ==",
   "success": true,
-  "projectFilePath": "D:\\Local\\Documentos\\Bitbucket\\alicedrive\\AliceDrive\\AliceDriveApi\\AliceDriveApi.csproj",
+  "projectFilePath": "D:\\Local\\Documentos\\Git hub\\aliceDrive\\AliceDriveBack\\AliceDriveApi\\AliceDriveApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lbd_2\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\lbd_2\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",

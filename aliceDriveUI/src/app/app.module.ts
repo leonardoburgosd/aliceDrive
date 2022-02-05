@@ -14,6 +14,7 @@ import { PostComponent } from './pages/post/post.component';
 import { BreadcrumbComponent } from './components/breadcrumb/breadcrumb.component';
 import { ViewFileComponent } from './pages/view-file/view-file.component';
 import { ErrorPageComponent } from './pages/error-page/error-page.component';
+import { PostElementComponent } from './components/post-element/post-element.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { ErrorPageComponent } from './pages/error-page/error-page.component';
     PostComponent,
     BreadcrumbComponent,
     ViewFileComponent,
-    ErrorPageComponent
+    ErrorPageComponent,
+    PostElementComponent
   ],
   imports: [
     BrowserModule,

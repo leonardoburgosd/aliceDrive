@@ -34,8 +34,7 @@ namespace AliceDriveApi
             services.Configure<AppSettings>(Configuration.GetSection("AppSettings"));
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowSpecificOrigin",
-                    builder => builder.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin());
+                options.AddPolicy("AllowSpecificOrigin", builder => builder.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin());
             });
             services.AddSwaggerGen(c =>
             {

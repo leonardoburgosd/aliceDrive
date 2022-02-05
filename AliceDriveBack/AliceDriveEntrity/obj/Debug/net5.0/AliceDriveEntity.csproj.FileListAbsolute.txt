@@ -21,3 +21,15 @@ D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveEntrity\obj\Debug\
 D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.dll
 D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\ref\AliceDriveEntity.dll
 D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.pdb
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\bin\Debug\net5.0\AliceDriveEntity.deps.json
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\bin\Debug\net5.0\AliceDriveEntity.dll
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\bin\Debug\net5.0\ref\AliceDriveEntity.dll
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\bin\Debug\net5.0\AliceDriveEntity.pdb
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.csproj.AssemblyReference.cache
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.AssemblyInfoInputs.cache
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.AssemblyInfo.cs
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.csproj.CoreCompileInputs.cache
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.dll
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\ref\AliceDriveEntity.dll
+D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.pdb

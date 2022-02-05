@@ -16,8 +16,8 @@ const httpOptions = {
 export class FileService {
     private api: string;
     constructor(private httpClient: HttpClient) {
-        //this.api = 'http://192.168.8.10/alicedrive/back/api/';
-        this.api = 'http://192.168.8.10/alicedriveDev/back/api/';
+        this.api = 'http://192.168.8.10/alicedrive/back/api/';
+        //this.api = 'http://192.168.8.10/alicedriveDev/back/api/';
         //this.api = 'https://localhost:44344/api/';
     }
 
