@@ -14,19 +14,21 @@ export class PostComponent implements OnInit {
   constructor(private route: ActivatedRoute, private postService: PostService) { }
 
   ngOnInit(): void {
+    this.listar();
+  }
+
+  listar() {
     this.postService.get(1).subscribe(
       (response: Post[]) => {
-        console.log(response);
         this.posts = response;
       },
       (error: any) => { console.log(error) });
   }
 
   create() {
-    this.newPost.usuarioId=1;
-    this.newPost.tipo="";
+    this.newPost.usuarioId = 1;
     this.postService.create(this.newPost).subscribe(
-      (response: any) => { console.log(response) },
+      (response: any) => { console.log(response);this.listar(); },
       (error: any) => { console.log(error) }
     );
   }

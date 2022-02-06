@@ -71,5 +71,6 @@
     <Build Include="Procedimientos\Files_getByBase.sql" />
     <Build Include="Procedimientos\Post_getByUserId.sql" />
     <Build Include="Procedimientos\Post_create.sql" />
+    <Build Include="Procedimientos\Post_delete.sql" />
   </ItemGroup>
 </Project>

@@ -12,11 +12,15 @@ export class PostService {
         this.api = 'http://192.168.8.10/alicedrive/back/api/posts';
     }
 
-    get(usuarioId:number):any{
-        return this.httpClient.get(this.api+'/'+usuarioId);
+    get(usuarioId: number): any {
+        return this.httpClient.get(this.api + '/' + usuarioId);
     }
 
-    create(post:Post):any{
-        return this.httpClient.post(this.api,post);
+    create(post: Post): any {
+        return this.httpClient.post(this.api, post);
+    }
+
+    delete(idPost: number): any {
+        return this.httpClient.delete(this.api + '/' + idPost);
     }
 }

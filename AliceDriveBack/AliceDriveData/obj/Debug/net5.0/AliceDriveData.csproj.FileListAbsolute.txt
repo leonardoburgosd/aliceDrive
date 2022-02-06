@@ -28,18 +28,8 @@ D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\bin\Debug\net
 D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\bin\Debug\net5.0\AliceDriveEntity.pdb
 D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.CopyComplete
 D:\Local\Documentos\Bitbucket\alicedrive\AliceDrive\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.AssemblyReference.cache
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\bin\Debug\net5.0\AliceDriveData.deps.json
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\bin\Debug\net5.0\AliceDriveData.dll
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\bin\Debug\net5.0\ref\AliceDriveData.dll
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\bin\Debug\net5.0\AliceDriveData.pdb
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\bin\Debug\net5.0\AliceDriveEntity.dll
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\bin\Debug\net5.0\AliceDriveEntity.pdb
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.AssemblyReference.cache
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\AliceDriveData.GeneratedMSBuildEditorConfig.editorconfig
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\AliceDriveData.AssemblyInfoInputs.cache
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\AliceDriveData.AssemblyInfo.cs
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.CoreCompileInputs.cache
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\AliceDriveData.csproj.CopyComplete
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\AliceDriveData.dll
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\ref\AliceDriveData.dll
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveData\obj\Debug\net5.0\AliceDriveData.pdb

@@ -51,5 +51,19 @@ namespace AliceDriveApi.Controllers
                 return StatusCode(500, e);
             }
         }
+
+        [Route("{idPost}")]
+        [HttpDelete]
+        public async Task<ActionResult> deleted(int idPost) {
+            try
+            {
+                await postConsummer.delete(settings,idPost);
+                return Ok();
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, e);
+            }
+        }
     }
 }

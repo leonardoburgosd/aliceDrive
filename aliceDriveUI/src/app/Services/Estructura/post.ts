@@ -1,5 +1,5 @@
 export class Post{
-    iDPost!:number;
+    idPost!:number;
     detallePost!:string;
     tipo!:string;
     fechaRegistro!:Date;

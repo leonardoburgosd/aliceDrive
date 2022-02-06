@@ -3,5 +3,5 @@
 AS
 SELECT * 
 FROM Post
-WHERE UsuarioId = @UsuarioId 
+WHERE UsuarioId = @UsuarioId AND Deleted = 0 
 ORDER BY IDPost desc

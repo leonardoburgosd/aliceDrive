@@ -21,9 +21,26 @@ namespace AliceDriveData.Implementation
                 dynamic response = await dapper.Consultas<dynamic>(settings.ConexionString, "Post_create", new
                 {
                     @DetallePost = post.DetallePost,
-                    @UsuarioId = post.UsuarioId
+                    @UsuarioId = post.UsuarioId,
+                    @Tipo = post.Tipo
                 });
                 return "Post creado correctamente.";
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
+
+        public async Task<string> delete(AppSettings settings, int idPost)
+        {
+            try
+            {
+                dynamic response = await dapper.Consultas<dynamic>(settings.ConexionString, "Post_delete", new
+                {
+                    @IdPost = idPost
+                });
+                return "Post eliminado correctamente.";
             }
             catch (Exception e)
             {
@@ -35,7 +52,8 @@ namespace AliceDriveData.Implementation
         {
             try
             {
-                return await dapper.Consultas<Post>(settings.ConexionString, "Post_getByUserId", new {
+                return await dapper.Consultas<Post>(settings.ConexionString, "Post_getByUserId", new
+                {
                     @UsuarioId = usuario
                 });
             }

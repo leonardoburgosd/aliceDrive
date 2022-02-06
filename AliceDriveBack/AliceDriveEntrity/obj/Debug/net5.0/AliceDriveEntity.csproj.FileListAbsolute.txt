@@ -25,7 +25,6 @@ D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\bin\Debu
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\bin\Debug\net5.0\AliceDriveEntity.dll
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\bin\Debug\net5.0\ref\AliceDriveEntity.dll
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\bin\Debug\net5.0\AliceDriveEntity.pdb
-D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.csproj.AssemblyReference.cache
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.GeneratedMSBuildEditorConfig.editorconfig
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.AssemblyInfoInputs.cache
 D:\Local\Documentos\Git hub\aliceDrive\AliceDriveBack\AliceDriveEntrity\obj\Debug\net5.0\AliceDriveEntity.AssemblyInfo.cs

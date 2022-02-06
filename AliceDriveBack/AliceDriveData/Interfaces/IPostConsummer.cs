@@ -10,5 +10,6 @@ namespace AliceDriveData.Interfaces
     {
         Task<List<Post>> getByUsuario(AppSettings settings, int usuario);
         Task<string> create(AppSettings settings, Post post);
+        Task<string> delete(AppSettings settings, int idPost);
     }
 }
